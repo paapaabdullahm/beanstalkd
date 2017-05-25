@@ -3,7 +3,7 @@
 >Its interface is generic, but was originally designed for reducing the latency of page views in high-volume web applications by running time-consuming tasks asynchronously. Visit [**project page**](https://github.com/kr/beanstalkd) on Github.
 
 &nbsp;  
-## Example usage
+## Example Usage
 
 **with docker run** 
 
