@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Paapa Abdullah Morgan <paapaabdullahm@gmail.com>
+MAINTAINER Abdullah Morgan <paapaabdullahm@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV PATH /usr/local/rvm/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
